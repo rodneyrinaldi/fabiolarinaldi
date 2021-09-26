@@ -51,11 +51,11 @@ export default function Home() {
 
         <session className={styles.tierTitle}>
           <h1>PERSONAL TRAINER</h1>
-          <p>Cuidados especiais a sua saúde</p>
-          <p>Quer maiores informações</p>
-          <Link href="/">
+          <p>Cuidando do seu corpo e sua saúde</p>
+          <p> </p>
+          {/* <Link href="/">
             <a>MAIS INFORMAÇÕES</a>
-          </Link>
+          </Link> */}
 
           {/* <button id="a" onClick={handleClick}>
             testar context
