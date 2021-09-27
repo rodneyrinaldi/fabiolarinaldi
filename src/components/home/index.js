@@ -40,13 +40,13 @@ export default function Home() {
 
       <main className={styles.tierMain}>
         <session className={styles.tierLogo}>
-          {/* <Image
-            src="/anger-face.png"
-            alt="esqueça-me"
+          <Image
+            src="/logo.png"
+            alt="logo"
             layout="intrinsic"
-            width={182}
-            height={228}
-          /> */}
+            width={995}
+            height={884}
+          />
         </session>
 
         <session className={styles.tierTitle}>
